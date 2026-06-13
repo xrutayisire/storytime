@@ -33,7 +33,7 @@ call stays yours.
 ## Install
 
 ```bash
-npx skills add xrutayisire/storytime
+npx skills add xrutayisire/storytime --global
 ```
 
 [`skills`](https://github.com/vercel-labs/skills) installs the skill for the
